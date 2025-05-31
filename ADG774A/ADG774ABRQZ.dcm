@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG774ABRQZ
+D ADG774ABRQZ analogue switch, QSOP16 Analog Devices ADG774ABRQZ, Analogue Switch Quad 2:1, 3.3 V, 5 V, 16-Pin QSOP
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG774A.pdf
+$ENDCMP
+#
+#End Doc Library

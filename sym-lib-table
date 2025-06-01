@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32-c3-supermini")(type "KiCad")(uri "${KIPRJMOD}/esp32-c3-supermini/esp32-c3-supermini.kicad_sym")(options "")(descr ""))
+  (lib (name "adg774a")(type "KiCad")(uri "${KIPRJMOD}/ADG774A/ADG774ABRQZ.kicad_sym")(options "")(descr "ADG774ABRQZ"))
+)
